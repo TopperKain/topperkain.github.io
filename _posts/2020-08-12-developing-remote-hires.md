@@ -3,10 +3,11 @@ layout: post
 title:  "How to Develop Junior Engineers (Remotely)"
 categories: Remote Coaching Mentoring
 ---
-# How to Develop Junior Engineers (Remotely)
 It’s a cliche at this point, but still true- the massive and sudden shift to remote work due to the COVID19 pandemic has changed how we work in tech. This year millions of graduates have or will start their careers working from home. I’ve seen quite a bit of consternation and hand-wringing over this- new grads wondering how they’ll ever learn enough to thrive in their roles and managers or leads trying to enable the same.
 
 I have answers.
+
+![Engineer at a computer alone](/assets/imgs/remote-junior-engineer.jpeg)
 
 ## Time + Effort + Respect + Connection + Clear Expectations
 I’ve been leading a team remotely for years, within a fully distributed organization. I’ve observed dozens of successes and failures in talent development and from that data have concluded:
