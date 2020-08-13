@@ -27,12 +27,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.topper.codes/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HeyTopper
 github_username: TopperKain
+minima:
+  social_links:
+    twitter: HeyTopper
+    github: TopperKain
+    linkedin: topperkain
+show_excerpts: true
+google_analytics: UA-175331441-1
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
+remote-theme: ssokurenko/jekyll-lin-theme
 plugins:
   - jekyll-feed
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

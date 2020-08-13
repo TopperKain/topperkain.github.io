@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Topper Kain (that's me) writes code, deploys infrastructure, leads teams, coaches junior engineers, teaches pre-schoolers to ski, wrangles his own children, fixes broken toys, does amatuer plumbing/carpentery/masonary, cooks epic dinners, and sometimes writes things.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Topper's day job is at Microsoft, in the [Consulting Services](https://www.microsoft.com/en-us/msservices) area. That mean's he helps other organizations solve their big problems.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+All content, opinions, success, and mistakes on this site are his own.
 
-
-[jekyll-organization]: https://github.com/jekyll
