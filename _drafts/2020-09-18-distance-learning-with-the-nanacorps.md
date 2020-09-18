@@ -1,7 +1,6 @@
 ---
 layout: blog
 published: false
-tags: ''
 ---
 ## Or the rise of the Nana Corps
 
@@ -11,7 +10,7 @@ The school year has begun for begun for my family. For us, that means “hybrid 
 
 <figure>
   <img src="{{site.baseurl}}/media/distance learning chairs.jpg" alt="Girl sitting in a chair with stuffed animals"/>
-  <figcaption>Adorable distance learning. Also, not my family- This from an ad for Lifetime branded kids chairs I saw at Costco. Serious props to the brand manager for nailing COVID marketing. (https://www.lifetime.com/lifetime-80473g-childrens-stacking-chair)</figcaption>  
+  <figcaption>Adorable distance learning. Also, not my family- This from an ad for Lifetime branded kids chairs I saw at Costco. Serious props to the brand manager for nailing COVID marketing. <a href="https://www.lifetime.com/lifetime-80473g-childrens-stacking-chair"> Manufacturer's page </a></figcaption>  
 </figure>
 
 ## Set the objective
@@ -28,7 +27,3 @@ We pretty quickly realized that there was no way to achieve our objectives with 
 ## Building the team- Bring in the Grandmas! (and Pas)
 
 My wife and I are blessed to have loving, supportive parents. We are also fortunate that they love and miss their grandchildren enough to help us multiple days a week with their education. There is just one catch- due to distance and health concerns, they can’t be physically present with their grandchildren. This was going to be distance grandparenting all the way through.
-
-
-
-
