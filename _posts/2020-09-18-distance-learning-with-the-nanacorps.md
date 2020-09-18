@@ -17,10 +17,10 @@ The school year has begun for begun for my family. In this time of COVID19, that
 ## Setting the objective
 I was confident by early July that we would not being going back to business as usual for school, so my wife and I were able to get a head start on our planning. We identified 4 primary objectives for our distance learning experience.
 
-1)	Ensure the kids get a high-quality education.
-2)	Enable the parents to continue their careers.
-3)	Improve the kids socialization.
-4)	Keep everyone in the family sane.
+1.	Ensure the kids get a high-quality education.
+2.	Enable the parents to continue their careers.
+3.	Improve the kids socialization.
+4.	Keep everyone in the family sane.
 
 I will say that his is the most formal articulation I have gotten to for these objectives, they were more an understanding built up over hours of discussion about the school situation, how we’d deal with it, and how angry we are at the illogic of opening bars before schools (but that’s another post.)
 We pretty quickly realized that there was no way to achieve our objectives with just two parents. Even though I work from home, I think the COVID19 crisis has pretty well demonstrated that working from home and homeschooling are mutually incompatible. We needed support. We needed grandparents.
@@ -46,15 +46,17 @@ It’s a pretty cute a setup at this point, even as I bemoan the loss of my man 
 In parallel to setting up the space, which honestly was mostly my wife’s doing, I was working on setting up tools and processes to enable the grandma’s to effectively work with the kids. Here is what I ended up with:
 
 ### Videoconferencing
--	For monitoring the kids- <u>Amazon Echo Show</u>- Both grandma’s wanted a fixed camera set up- apparently the “running around with the phone while on FaceTime” routing was getting old. We settled on the Echo Show primarily because of the perceived ease of use and the “drop in” capability. Grandma can just pop in even the boys are trying to be sneaky. The audio is good on both ends and the video is adequate.
+-	For monitoring the kids- <u>Amazon Echo Show</u>- Both grandma’s wanted a fixed camera set up- apparently the “running around with the phone while on FaceTime” routine was getting old. We settled on the Echo Show primarily because of the perceived ease of use and the “drop in” capability. Grandma can just pop in even the boys are trying to be sneaky. The audio is good on both ends and the video is adequate.
 -	For sceensharing- <u>Jitsi Meet</u>- This program is GREAT. Its free, open source, and uses the open protocol WebRTC. Its also stupid easy to use. We are using purely for screen sharing, as we find it better to use Echo Show for actual talking, but this is what enable grandma to see each kids screen. We are now experimenting with each kid logging into their own meeting and sharing their screen to that and grandma being able to get both feeds simultaneously.
 
 Between these two tools, the grandmas are pretty good at monitoring what's going on and helping with any learning speedbumps.
 
 ### Computing
 <u>Laptops</u>- my kids laptops are older than they are and they work fine. I think the total combined value of the laptops is less than the echo show. One is running Windows 10, the other Ubuntu. I don’t recommend running Ubuntu if you don’t have someone in your family that knows that knows what “sudo” is. I’m glad we have laptops though- I don’t think doing this via tablets would be feasible.
+
 ### Site blocking
-<u>OpenDNS and Raspberry Pi</u>- I never thought I’d set up network blocking in my house. I thought it silly and trusted my kids. Then one of them innocently tried to search for “pictures of brown bunnies” <sup>NSFW</sup> and we found out what a filthy place the internet is. Additionally, we needed to start blocking access to games in, as the kids can get quite distracted by massive multiplayer online nibbles (seriously, this is a thing- littlebigsnake.com).  I settled on a free setup using Cisco’s OpenDNS (<https://opendns.com>) and the PiHole ad blocking/DNS software running on a Raspberry Pi (Pi-hole – A black hole for Internet advertisements), because I’m a nerd. This setup probably requires its own post, but it has the benefit of making the internet better due to adblocking as well. For the less technically inclined, there are options such as the Disney Circle (my router had this as a built in feature, but I had huge performance problems), net nanny, and clean router. If you just want to block questionable content, you can use the instructions at <https://cleanbrowsing.org/guides/windows> to reduce the likelihood of accidents.
+<u>OpenDNS and Raspberry Pi</u>- I never thought I’d set up network blocking in my house. I thought it silly and trusted my kids. Then one of them innocently tried to search for “pictures of brown bunnies” <sup>NSFW</sup> and we found out what a filthy place the internet is. Additionally, we needed to start blocking access to games in, as the kids can get quite distracted by massive multiplayer online nibbles (seriously, this is a thing- littlebigsnake.com).  I settled on a free setup using Cisco’s OpenDNS (<https://opendns.com>) and the PiHole ad blocking/DNS software running on a Raspberry Pi (<https://pi-hole.net/>), because I’m a nerd. This setup probably requires its own post, but it has the benefit of making the internet better due to adblocking as well. For the less technically inclined, there are options such as the Disney Circle (my router had this as a built in feature, but I had huge performance problems), net nanny, and clean router. If you just want to block questionable content, you can use the instructions at <https://cleanbrowsing.org/guides/windows> to reduce the likelihood of accidents.
+
 ### Printer
 I bought whatever was on sale. I’m annoyed to have to print things again, but this is a school requirement at this point. I’ve also found myself printing more stuff generally for the kids to use, outside of school- they like the physicality of it.
 
