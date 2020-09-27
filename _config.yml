@@ -22,7 +22,7 @@ title: Coder, Engineer, Coach
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Topper Kain, and this is my blog, where I will write about stuff that interests me
   such as technical leadership, coding, parenting, skiing, 
-  and possibly wonky national security stuff.
+  and possibly wonky national security stuff. Tomorrow will be better than today because we will make it that way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.topper.codes/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HeyTopper
