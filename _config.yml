@@ -44,6 +44,8 @@ theme: minima
 remote-theme: ssokurenko/jekyll-lin-theme
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
   
 prose:
   rooturl: '_posts'
