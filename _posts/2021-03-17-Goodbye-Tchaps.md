@@ -8,7 +8,7 @@ My dog died today. He was younger than most of his breed when he went, but by no
 
 Tchaps (Tchoupitoulas) Hodges was born in June of 2007 in Reno NV. He was the 2nd to last of his litter to be picked. Jen said that there was a calm pup and a feisty pup left when she went to pick a dog. She didn't pick the calm one.
 
- ![Tchaps as a younger dog for Mardi Gras](media/goodbyetchaps/TchapsMardiGras.jpg)
+ ![Tchaps as a younger dog for Mardi Gras](/media/goodbyetchaps/TchapsMardiGras.jpg)
  
 Jen joined me in Bellevue, Washington later that year. I didn't understand why she wanted a dog- it seemed like a lot of bother and expense and really limited apartment options.  I'm pretty sure within 6 months everyone thought I was obsessed with him. He quickly became a center piece of our life together - his nightly walks (in the rain, this is Seattle weather after all), trips to the epic Marymoor dog park, and wrestles on the floor wove themselves into our routine. He didn't come everywhere with us, but we tried to include him in most things. One of the more amusing routines we had was to take a walk around the car deck of the Seattle-Bremerton ferry. Tchaps would lunge fiercely into the wind as we approach the fore of the ship, the gale slicing his fur back. He looked like a dog of action.
  
@@ -18,7 +18,7 @@ When we relocated again to Nevada Tchaps had accepted his lot in life- he had lo
  
 In the last year of his life (a year deeply impacted by a virus that I still somewhat suspect was developed by dogs to keep their humans home with them), Tchaps gained a new member of the family - a tiny new puppy. This once again was intolerable, and he immediately went to work showing the new puppy who was alpha dog in the house. Of course, tiny puppies don't stay tiny for very long, and soon our new dog was twice the size of Tchaps. With the new puppy constantly wanting to play, the poor old dog regularly got dragged around the house by his ears in determined attempt to get him to play. Despite that, old habits die hard; the day before he passed, Mr. Tchaps, his body ridden with cancer and having difficulty breathing, still was able to assert his dominance as he body slammed the new dog twice his size into the ground. He then promptly collapsed and took a nap.
 
- ![Tchaps putting our new dog in her place](media/goodbyetchaps/TchapsAndNewNola.jfif)
+ ![Tchaps putting our new dog in her place](/media/goodbyetchaps/TchapsAndNewNola.jfif)
 
 Many people talk about all that their dogs give them. That doesn't sound quiet right for Tchaps. He was quite a selfish dog. He wouldn't walk up to you and lovingly put his head in your lap - he'd put his head under your hand and glare at you until you pet him. I'll never forget the day I very painfully sprained my ankle while walking him. He expressed zero concern at my pain, he just demanded that I keep walking. 
  
@@ -27,5 +27,5 @@ What Tchaps did do was to give me two amazing gifts. The first was showing me hi
  
 I'll miss you Tchaps. May we meet again on the rainbow bridge someday. Until then, rest in peace. You were a good dog, and my life was better for you having been in it.
 
- ![Tchaps on his last day. He is gone. We miss him.](media/goodbyetchaps/TchapsLastDay.PNG)
+ ![Tchaps on his last day. He is gone. We miss him.](/media/goodbyetchaps/TchapsLastDay.PNG)
 
