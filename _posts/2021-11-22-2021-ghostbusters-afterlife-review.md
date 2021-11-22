@@ -56,7 +56,6 @@ What Reitman should have done is keep everything the same until Gozar is finally
 <p>
 Egon's spirit remains. You establish into canon the concept of "good ghosts." And you metaphorically acknowledge that the spirit's of ancestors never disappear, they just subside into the background.
 </p>
-
 </details>
 
 I hope Ghostbusters has long future in front of it. The metaphor of ghosts as the spirit of our past is something that can be expanded upon- Taika Waitit managed to tell a story of Colonialism destroying the colonizers inside Thor: Ragnarock, could Ghostbusters be used to tell a story of how to both reckon with and respect our past while still being entertaining? Perhaps while giving us even more Ernie Hudson and McKenna Grace? I really hope to see more. Regardless of the story they tell, I will probably still give them my money.
