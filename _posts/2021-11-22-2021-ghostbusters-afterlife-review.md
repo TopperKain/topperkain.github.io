@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: Pop-culture Ghostbusters Review
 title: Ghostbusters Afterlife Review and Critique
 ---
