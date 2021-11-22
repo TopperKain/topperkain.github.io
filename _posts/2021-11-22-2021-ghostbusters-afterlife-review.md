@@ -30,35 +30,34 @@ I said that Afterlife is not without its flaws. It isn't. There have been plenty
 <details>
   <summary>Spoilers (and pedantry) ahead! If you don't mind me spoiling the movie, Click to expand!</summary>
 
-
-
  <p>
  Afterlife, as stated by the Jason Reitman (the director), is fundamentally a story about family. For Sony, it's about passing the torch of the franchise. For purposes of the plot, it is fundamentally about (SPOILER, seriously!) the legacy of Egon Spangler and his relationship to his family, particularly his grandchildren. It's been criticized as schmaltzy, but I found it a good and appropriate choice for the movie. After all, ghosts are echos of the past. A movie that is EXPLICITLY about ghosts seems like a perfect place to explore how those that have gone before us effect us today.
  </p>
-
-<p>
- Egon's ghost (spoiler- I told you!) spends most of the movie as an eerie but kind unseen force interacting with his family. I really liked this part of the story line. It is relatable- my grandparents are gone, but the lessons they taught me and the examples they set affect me everyday. We all live with the ghosts of our ancestors. 
-
-<p> Certainly the franchise does, too. The spirit of Harold Ramis (the actor who played Egon and  also co-wrote the original two movies) did and should loom large over the series. Answer the Call suffered for mostly ignoring and mishandling the past and while Afterlife over-corrects it also produced a better movie with much more potential for the story to keep being told.</p>
-
-<p>
- Therefore, my major critique is the end of the movie. After the original Ghostbusters make their entrance (aside- another critique, their was not reason to save that to the end, we all know it was going to happen. A bit more "huh, so you are Egon's girl" ahead of time would have bene good, but my guess is Bill Murray made that impossible.) we spend way too much time with Egon as class 5 full corporeal free-roaming vapor. And then, after some nostalgia glamour shots, he appears to fade to heaven.
+ 
+ <p>
+  Egon's ghost (spoiler- I told you!) spends most of the movie as an eerie but kind unseen force interacting with his  family. I really liked this part of the story line. It is relatable- my grandparents are gone, but the lessons they  taught me and the examples they set affect me everyday. We all live with the ghosts of our ancestors. 
+ 
+ <p> Certainly the franchise does, too. The spirit of Harold Ramis (the actor who played Egon and  also co-wrote the  original two movies) did and should loom large over the series. Answer the Call suffered for mostly ignoring and  mishandling the past and while Afterlife over-corrects it also produced a better movie with much more potential for  the story to keep being told.</p>
+ 
+ <p>
+  Therefore, my major critique is the end of the movie. After the original Ghostbusters make their entrance (aside-  another critique, their was not reason to save that to the end, we all know it was going to happen. A bit more  "huh, so you are Egon's girl" ahead of time would have bene good, but my guess is Bill Murray made that impossible. ) we spend way too much time with Egon as class 5 full corporeal free-roaming vapor. And then, after some nostalgia  glamour shots, he appears to fade to heaven.
+  </p>
+ 
+ <p>
+ This is where the mistake is. It implies that Egon (and Ramis)'s spirit will go away. That whole point of the movie  is that it didn't (and won't). The good parts of past don't need to dissolve into the ether, we carry them on with  us. They, at worst, fade away with time.
+ </p>
+ 
+ <p>
+ What Reitman should have done is keep everything the same until Gozar is finally trapped and then have Egon's full  apparition suddenly disappear. After all, Gozar's pyschokinetic energy is what powers the ghosts. Then, just use the  movie making trope of having the his ghost appear in a reflection in a house window. Have the characters say goodbye  that way, and then disappear into the house. 
+ </p>
+ 
+ <p>
+ Egon's spirit remains. You establish into canon the concept of "good ghosts." And you metaphorically acknowledge  that the spirit's of ancestors never disappear, they just subside into the background.
  </p>
 
-<p>
-This is where the mistake is. It implies that Egon (and Ramis)'s spirit will go away. That whole point of the movie is that it didn't (and won't). The good parts of past don't need to dissolve into the ether, we carry them on with us. They, at worst, fade away with time.
-</p>
-
-<p>
-What Reitman should have done is keep everything the same until Gozar is finally trapped and then have Egon's full apparition suddenly disappear. After all, Gozar's pyschokinetic energy is what powers the ghosts. Then, just use the movie making trope of having the his ghost appear in a reflection in a house window. Have the characters say goodbye that way, and then disappear into the house. 
-</p>
-
-<p>
-Egon's spirit remains. You establish into canon the concept of "good ghosts." And you metaphorically acknowledge that the spirit's of ancestors never disappear, they just subside into the background.
-</p>
 </details>
 
-I hope Ghostbusters has long future in front of it. The metaphor of ghosts as the spirit of our past is something that can be expanded upon- Taika Waitit managed to tell a story of Colonialism destroying the colonizers inside Thor: Ragnarock, could Ghostbusters be used to tell a story of how to both reckon with and respect our past while still being entertaining? Perhaps while giving us even more Ernie Hudson and McKenna Grace? I really hope to see more. Regardless of the story they tell, I will probably still give them my money.
+I hope Ghostbusters has long future in front of it. The metaphor of ghosts as the spirit of our past is something that can be expanded upon- Taika Waititi managed to tell a story of Colonialism destroying the colonizers inside Thor: Ragnarock, could Ghostbusters be used to tell a story of how to both reckon with and respect the past while still being entertaining? Perhaps while giving us even more Ernie Hudson and McKenna Grace? I really hope to see more. Regardless of the story they tell, I will probably still give them my money.
 
 Go see Ghostbusters: Afterlife. Its worth the price of ticket.
 
