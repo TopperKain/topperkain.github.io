@@ -29,7 +29,7 @@ I said that Afterlife is not without its flaws. It isn't. There have been plenty
 
 <details>
   <summary>Spoilers (and pedantry) ahead! If you don't mind me spoiling the movie, Click to expand!</summary>
-
+<div>
  <p>
  Afterlife, as stated by the Jason Reitman (the director), is fundamentally a story about family. For Sony, it's about passing the torch of the franchise. For purposes of the plot, it is fundamentally about (SPOILER, seriously!) the legacy of Egon Spangler and his relationship to his family, particularly his grandchildren. It's been criticized as schmaltzy, but I found it a good and appropriate choice for the movie. After all, ghosts are echos of the past. A movie that is EXPLICITLY about ghosts seems like a perfect place to explore how those that have gone before us effect us today.
  </p>
@@ -54,7 +54,7 @@ I said that Afterlife is not without its flaws. It isn't. There have been plenty
  <p>
  Egon's spirit remains. You establish into canon the concept of "good ghosts." And you metaphorically acknowledge  that the spirit's of ancestors never disappear, they just subside into the background.
  </p>
-
+  </div>
 </details>
 
 I hope Ghostbusters has long future in front of it. The metaphor of ghosts as the spirit of our past is something that can be expanded upon- Taika Waititi managed to tell a story of Colonialism destroying the colonizers inside Thor: Ragnarock, could Ghostbusters be used to tell a story of how to both reckon with and respect the past while still being entertaining? Perhaps while giving us even more Ernie Hudson and McKenna Grace? I really hope to see more. Regardless of the story they tell, I will probably still give them my money.
